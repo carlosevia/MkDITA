@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Requesting books from the Virginia Tech Library</title>
+  <topicref href="index.md" format="markdown" />
+  <topicref href="available.md" format="markdown" />
+ <topicref href="offcampussignin.md" format="markdown">
+<topicref href="child.md" format="markdown" />
+ </topicref>
+</map>
