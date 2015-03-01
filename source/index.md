@@ -1,3 +1,3 @@
 # Welcome to the fake Virginia Tech library #
 
-This is a guide on how to request books from the library.
+Please follow these tasks to check out books from our library.
